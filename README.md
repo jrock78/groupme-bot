@@ -1,2 +1,2 @@
-# groupme-bot
+# Erectorbot
 Groupme bot hosting
